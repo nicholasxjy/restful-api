@@ -1,0 +1,30 @@
+{
+  "name": "restful-api-demo",
+  "version": "0.0.0",
+  "description": "using nodejs based on express4 build a restful api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholasxjy/restful-api.git"
+  },
+  "keywords": [
+    "express4",
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "nicholas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasxjy/restful-api/issues"
+  },
+  "homepage": "https://github.com/nicholasxjy/restful-api",
+  "dependencies": {
+    "express": "~4.4.2",
+    "mongoose": "*",
+    "body-parser": "*"
+  }
+}
